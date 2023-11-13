@@ -1,2 +1,2 @@
 # site
-JS14 App
+Site App
